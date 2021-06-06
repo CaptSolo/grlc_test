@@ -1,0 +1,11 @@
+#+ summary: Retrieve all DBpedia bands (dbo:Band)
+#+ endpoint: http://dbpedia.org/sparql
+#+ method: GET
+#+
+#+ defaults:
+#+   - type: http://dbpedia.org/ontology/Band
+
+
+prefix dbo: <http://dbpedia.org/ontology/>
+
+select distinct ?s where {?s a ?_type}
