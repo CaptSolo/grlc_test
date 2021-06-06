@@ -8,4 +8,4 @@
 
 prefix dbo: <http://dbpedia.org/ontology/>
 
-select distinct ?s where {?s a ?_type}
+select distinct ?s where {?s a ?_type_iri}
