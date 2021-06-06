@@ -1,4 +1,4 @@
-#+ summary: Retrieve all DBpedia bands (dbo:Band)
+#+ summary: Retrieve all DBpedia resources of a given type.
 #+ endpoint: http://dbpedia.org/sparql
 #+ method: GET
 #+
