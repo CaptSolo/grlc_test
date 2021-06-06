@@ -10,5 +10,5 @@ ESWC 2021:
 
 grlc related work:
 * [W3C Declarative Linked Data Apps Community Group](https://www.w3.org/community/declarative-apps/)
-* [http://ld-r.org/](Linked Data Reactor)
-* [https://oba.readthedocs.io/en/latest/](Ontology-Based APIs (OBA))
+* [Linked Data Reactor](http://ld-r.org/)
+* [Ontology-Based APIs (OBA)](https://oba.readthedocs.io/en/latest/)
